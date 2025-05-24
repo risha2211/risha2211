@@ -49,7 +49,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 🔗 [My Codeforces Profile](https://codeforces.com/profile/risha22)
 
 ## 🧾 HackerRank Highlights
-🌟 1-Star in C Programming
+🌟 1-Star in C Programming  
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
 ---
