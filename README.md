@@ -5,7 +5,7 @@
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX Designer & 3D Designer | Hardware Builder (Electronics & Robotics)**
 
 ### 💻 I code in:
-Python · C · C++ · C# · Java · Dart · JavaScript
+Python · C · C++ · C# · Java · Dart · JavaScript · MATLAB
 
 ### 🌐 Frontend:
 Flutter · HTML5 · CSS · JS
