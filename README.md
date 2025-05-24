@@ -52,7 +52,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 ---
 
 ## 🎯 Soft Skills & Leadership
-🧩 Joint Chief of SAHAS at K.J. Somaiya. Organized clean-ups, games, donation drives; skilled in teamwork, deadlines, budgeting.  
+🤝 Joint Chief of SAHAS at K.J. Somaiya. Organized clean-ups, games, donation drives; skilled in teamwork, deadlines, budgeting.  
 🗣️ Fluent in Hindi, Marathi, English, French, Mandarin; conversational in Spanish.  
 ♟️ Former competitive chess player (peak Elo 1750)
 
