@@ -27,7 +27,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 ## 📈 What I'm Up To
 🎓 Currently pursuing Computer Science at **KJSSE**  
 🧩 Solving problems on **CodeChef**, **Codeforces** and **HackerRank**  
-🛡️ Regularly practice **CTF challenges**
+🛡️ Regularly practice **CTF challenges**  
 📚 Enrolled in **IIT Madras’s Quantum Computing course** - exploring Qiskit, qubits, and the future of computation  
 🛩️ Built micro-aeroplanes and nano drones from scratch as part of my hands-on engineering pursuits  
 👩‍💻 Participated in multiple hackathons and worked on projects - [see them here](https://github.com/risha2211/My-Projects).
