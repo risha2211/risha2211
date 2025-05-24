@@ -42,7 +42,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 
 ## 📊 Codeforces Highlights
 🌟 Rating: 899 (Newbie)  
-🥈 Participated in 2 contests   
+🎖️ Participated in 3 contests   
 🔗 [My CodeForces Profile](https://codeforces.com/profile/risha22)
 
 ## 🧾 HackerRank Highlights
