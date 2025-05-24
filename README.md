@@ -48,6 +48,10 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 🥈 Participated in 2 contests   
 🔗 [My Codeforces Profile](https://codeforces.com/profile/risha22)
 
+## 🧾 HackerRank Highlights
+🌟 1-Star in C Programming
+🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
+
 ---
 
 ## 🎯 Soft Skills & Leadership
