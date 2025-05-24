@@ -25,7 +25,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 ---
 
 ## 📈 What I'm Up To
-🎓 Currently pursuing Computer Science at **KJSCE**  
+🎓 Currently pursuing Computer Science at **KJSSE**  
 🧠 Actively solving problems on **CodeChef** and **Codeforces**  
 📚 Enrolled in **IIT Madras’s Quantum Computing course** - exploring Qiskit, qubits, and the future of computation  
 🛩️ Built micro-aeroplanes and nano drones from scratch as part of my hands-on engineering pursuits  
