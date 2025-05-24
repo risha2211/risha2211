@@ -44,7 +44,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 🔗 [My CodeChef Profile](https://www.codechef.com/users/rishakanthe)
 
 ## 📊 Codeforces Highlights
-🌟 Rating: 708 (Newbie)  
+🌟 Rating: 899 (Newbie)  
 🥈 Participated in 2 contests   
 🔗 [My Codeforces Profile](https://codeforces.com/profile/risha22)
 
