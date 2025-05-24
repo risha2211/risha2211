@@ -29,11 +29,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 🧠 Actively solving problems on **CodeChef** and **Codeforces**  
 📚 Enrolled in **IIT Madras’s Quantum Computing course** - exploring Qiskit, qubits, and the future of computation  
 🛩️ Built micro-aeroplanes and nano drones from scratch as part of my hands-on engineering pursuits  
-👩‍💻 Participated in multiple hackathons and worked on projects with ideas spanning:  
-  - AI grading systems  
-  - Climate-awareness web-app  
-  - Cybersecurity tools  
-  - ML-enhanced automated fruit counter
+👩‍💻 Participated in multiple hackathons and worked on projects with ideas spanning - [see them here](https://github.com/risha2211/My-Projects).
 
 ---
 
