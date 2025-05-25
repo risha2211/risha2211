@@ -57,7 +57,7 @@
 </p>
 
 ### 🛫 Deployment:
-Vercel GitHub Pages     
+Vercel · GitHub Pages     
 
 ### 📁 Tools:
 Microsoft Office Suite · Google Workspace · Git · Linux command line basics
