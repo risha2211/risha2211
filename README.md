@@ -58,8 +58,7 @@
 
 ### 🛫 Deployment:
 Vercel · GitHub Pages   
-![Image](https://github.com/user-attachments/assets/802d852b-44dc-4c63-9606-0179d95c1c8e)
-![Image](https://github.com/user-attachments/assets/c6acc0cb-b9b0-46a0-8a53-58ba07a02adf)
+<img src="https://github.com/user-attachments/assets/c6acc0cb-b9b0-46a0-8a53-58ba07a02adf" width="60" height="60">
 
 ### 📁 Tools:
 Microsoft Office Suite · Google Workspace · Git · Linux command line basics
