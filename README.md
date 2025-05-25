@@ -5,9 +5,6 @@
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX Designer & 3D Designer | Hardware Builder (Electronics & Robotics)**
 
 ### 💻 I code in:
-
-### 💻 I code in:
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
   &nbsp;
