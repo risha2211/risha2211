@@ -35,7 +35,6 @@
 </p>
 
 ### 🛠️ Backend:
-Python · Java · SQL · Firebase · Node.js
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
 &nbsp;
@@ -48,12 +47,13 @@ Python · Java · SQL · Firebase · Node.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 </p>
           
-          
-          
-
-
 ### 🎨 UI/UX:
-Figma · Canva · Vix Studio
+Vix Studio
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+</p>
 
 ### 🛫 Deployment:
 Vercel · GitHub Pages
