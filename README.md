@@ -1,5 +1,50 @@
 ## Risha Kanthe  
-*Crafting things with Care and Caffeine* ☕  
+<!-- README.md -->
+<div align="center">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+    .coffee-quote {
+      font-family: 'Pacifico', cursive;
+      font-size: 2em;
+      color: #6f4e37;
+      position: relative;
+      display: inline-block;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid #6f4e37;
+      width: 0;
+      animation: typing 4s steps(40, end) forwards, blink .75s step-end infinite;
+    }
+
+    .coffee-cup {
+      display: inline-block;
+      font-size: 1.5em;
+      animation: float 2s ease-in-out infinite;
+      margin-left: 10px;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 22ch }
+    }
+
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #6f4e37; }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-5px); }
+    }
+  </style>
+
+  <div class="coffee-quote">Crafting things with Care and Caffeine ☕</div><div class="coffee-cup">☕</div>
+
+</div>
+  
 
 
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX Designer & 3D Designer | Hardware Builder (Electronics & Robotics)**
