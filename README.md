@@ -25,7 +25,6 @@
 
 ### 🌐 Frontend:
 <p>
-Flutter · HTML5 · CSS · JS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="60" height="60"/>
 &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="60" height="60"/>
