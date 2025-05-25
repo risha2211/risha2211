@@ -63,7 +63,7 @@
 &nbsp;
 <img src="https://github.com/user-attachments/assets/c6acc0cb-b9b0-46a0-8a53-58ba07a02adf" width="60" height="60">
 
-### 3D Design & Prototype
+### 🧊 3D Design & Prototype
 ![Image](https://github.com/user-attachments/assets/f784d71c-3696-44f1-8759-95d8eb9a63f3)
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/5cc778c8-f724-4f0a-b442-130a4924d937)
