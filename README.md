@@ -60,8 +60,7 @@
 Vercel · GitHub Pages 
 <img src="https://github.com/user-attachments/assets/9a295932-d657-4602-8598-e56a22f15cda" width="60" height="60">
 &nbsp;
-<img src="https://github.com/user-attachments/assets/9a295932-d657-4602-8598-e56a22f15cda" width="60" height="60">
-
+<img src="https://github.com/user-attachments/assets/c6acc0cb-b9b0-46a0-8a53-58ba07a02adf" width="60" height="60">
 
 ### 📁 Tools:
 Microsoft Office Suite · Google Workspace · Git · Linux command line basics
