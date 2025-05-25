@@ -2,6 +2,7 @@
 <div>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Crafting+things+with+Care+and+Caffeine+%E2%98%95" alt="Typing SVG" />
 </div>
+
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX Designer & 3D Designer | Hardware Builder (Electronics & Robotics)**
 
 ### 💻 I code in:
