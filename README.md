@@ -23,17 +23,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="60" height="60"/>
 </p>
 
-
-          
-          
-          
-          
-          
-          
-
-
 ### 🌐 Frontend:
+<p>
 Flutter · HTML5 · CSS · JS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="60" height="60"/>
+&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="60" height="60"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="60" height="60"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>         
+</p>
 
 ### 🛠️ Backend:
 Python · Java · SQL · Firebase · Node.js
