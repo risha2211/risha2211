@@ -58,7 +58,8 @@
 
 ### 🛫 Deployment:
 <p>
-![Image](https://github.com/user-attachments/assets/eeed9ea5-65ad-4b2a-bc20-b9e9ff12f73a)
+![Image](https://raw.githubusercontent.com/username/repo/branch/path/to/image.svg)
+
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="60" height="60"/>
 </p>          
