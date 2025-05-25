@@ -6,7 +6,7 @@
 
 ### 💻 I code in:
 Python · C · C++ · C# · Java · Dart · JavaScript · MATLAB
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="70" /> ·
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70" />
           
 
