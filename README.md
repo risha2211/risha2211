@@ -57,11 +57,7 @@
 </p>
 
 ### 🛫 Deployment:
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="60" height="60"/>
-</p>          
+Vercel GitHub Pages     
 
 ### 📁 Tools:
 Microsoft Office Suite · Google Workspace · Git · Linux command line basics
