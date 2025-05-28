@@ -89,7 +89,7 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 
 ## 🧑‍🍳 CodeChef Highlights
 🌟 Rating: 1384 (1-Star)  
-🎖️ Participated in 2 contests
+🎖️ Participated in 2 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
 🔗 [My CodeChef Profile](https://www.codechef.com/users/rishakanthe)
