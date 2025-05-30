@@ -71,6 +71,7 @@
 ![Image](https://github.com/user-attachments/assets/86d64376-7fde-4ec9-82ca-6846749aac72)
 
 ### 🤖 Machine Learning:
+![Image](https://github.com/user-attachments/assets/2ee03b47-02f6-4b61-8d4e-b91df741bd18)
 ![Image](https://github.com/user-attachments/assets/60bdc0b6-cddb-4380-9a16-6e1cfd9c06cc)
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/9252221f-1278-470d-bdf5-b24debb37fea)
