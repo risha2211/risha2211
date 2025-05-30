@@ -55,8 +55,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="60" height="60"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="60" height="60" />
-  &nbsp;
-![Image](https://github.com/user-attachments/assets/6ff9f3c1-d575-43e4-92f2-7fffa7a142a6)
+&nbsp;
+![Image](https://github.com/user-attachments/assets/bb5e11bc-7eb5-4472-bd99-2b9944c1f09f) 
 </p>
 
 ### 🛫 Deployment:
