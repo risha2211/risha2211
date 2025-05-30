@@ -59,23 +59,27 @@
 </p>
 
 ### 🛫 Deployment:
-
+<p>
 <img src="https://github.com/user-attachments/assets/9a295932-d657-4602-8598-e56a22f15cda" width="60" height="60">
 &nbsp;
 <img src="https://github.com/user-attachments/assets/c6acc0cb-b9b0-46a0-8a53-58ba07a02adf" width="60" height="60">
+</p>
 
 ### 🧊 3D Design & Prototype:
+<p>
 ![Image](https://github.com/user-attachments/assets/4dd3e745-42f0-4e86-abde-5ad615d124c3)
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/86d64376-7fde-4ec9-82ca-6846749aac72)
+</p>
 
 ### 🤖 Machine Learning:
+<p>
 ![Image](https://github.com/user-attachments/assets/2ee03b47-02f6-4b61-8d4e-b91df741bd18)
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/9252221f-1278-470d-bdf5-b24debb37fea)
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/908a9048-3fd5-47e7-93bf-32c647546bff)
-
+</p>
 
 ### 📁 Tools:
 Microsoft Office Suite · Google Workspace · Git · Linux command line basics
