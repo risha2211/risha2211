@@ -70,7 +70,8 @@
 
 ### 🤖 Machine Learning:
 ![Image](https://github.com/user-attachments/assets/60bdc0b6-cddb-4380-9a16-6e1cfd9c06cc)
-![Image](https://github.com/user-attachments/assets/51d1a2b7-1bb3-410d-bd37-08874ad309bd)
+&nbsp;
+![Image](https://github.com/user-attachments/assets/6f9793e6-ce9c-4e78-9a5c-6283cea39a51)
 
 
 ### 📁 Tools:
