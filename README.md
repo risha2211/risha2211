@@ -58,7 +58,7 @@
 &nbsp;
 </p>
 
-![Image](https://github.com/user-attachments/assets/9ae527c6-56b8-4479-8eb8-2531beb7275d)
+![Image](https://github.com/user-attachments/assets/86e2e6ba-821a-4525-b26f-b0a8292fa79a)
 
 
 ### 🛫 Deployment:
