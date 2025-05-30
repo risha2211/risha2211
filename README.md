@@ -72,9 +72,9 @@
 ### 🤖 Machine Learning:
 ![Image](https://github.com/user-attachments/assets/60bdc0b6-cddb-4380-9a16-6e1cfd9c06cc)
 &nbsp;
-![Image](https://github.com/user-attachments/assets/908a9048-3fd5-47e7-93bf-32c647546bff)
-&nbsp;
 ![Image](https://github.com/user-attachments/assets/9252221f-1278-470d-bdf5-b24debb37fea)
+&nbsp;
+![Image](https://github.com/user-attachments/assets/908a9048-3fd5-47e7-93bf-32c647546bff)
 
 
 ### 📁 Tools:
