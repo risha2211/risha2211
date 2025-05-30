@@ -58,9 +58,6 @@
 &nbsp;
 </p>
 
-![Image](https://github.com/user-attachments/assets/86e2e6ba-821a-4525-b26f-b0a8292fa79a)
-
-
 ### 🛫 Deployment:
 <p>
 <img src="https://github.com/user-attachments/assets/9a295932-d657-4602-8598-e56a22f15cda" width="60" height="60">
