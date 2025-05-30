@@ -121,3 +121,4 @@ Microsoft Office Suite · Google Workspace · Git · Linux command line basics
 ---
 
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/risha-kanthe-526826329/)
+![Image](https://github.com/user-attachments/assets/055e690f-2c57-48d0-b5e1-6bcda715d495)
