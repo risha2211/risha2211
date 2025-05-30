@@ -57,7 +57,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="60" height="60" />
 &nbsp;
 </p>
-![Image](https://github.com/user-attachments/assets/2e9502e6-628d-41c3-be52-1faefc48fe40)
 
 ### 🛫 Deployment:
 
