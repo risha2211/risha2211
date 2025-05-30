@@ -66,7 +66,7 @@
 ### 🧊 3D Design & Prototype:
 ![Image](https://github.com/user-attachments/assets/4dd3e745-42f0-4e86-abde-5ad615d124c3)
 &nbsp;
-![Image](https://github.com/user-attachments/assets/5cc778c8-f724-4f0a-b442-130a4924d937)
+![Image](https://github.com/user-attachments/assets/86d64376-7fde-4ec9-82ca-6846749aac72)
 
 ### 🤖 Machine Learning:
 ![Image](https://github.com/user-attachments/assets/60bdc0b6-cddb-4380-9a16-6e1cfd9c06cc)
