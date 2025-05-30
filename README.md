@@ -49,6 +49,7 @@
 </p>
           
 ### 🎨 UI/UX:
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="60" height="60"/>
@@ -56,6 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="60" height="60" />
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/055e690f-2c57-48d0-b5e1-6bcda715d495)
+</p>
 
 ### 🛫 Deployment:
 
