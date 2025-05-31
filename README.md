@@ -79,7 +79,7 @@
 &nbsp;
 ![Image](https://github.com/user-attachments/assets/908a9048-3fd5-47e7-93bf-32c647546bff)
 
-### 🧰 Development Tools:
+### 🧰 Development Environment:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/>
   &nbsp;
