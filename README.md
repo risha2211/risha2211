@@ -153,7 +153,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 📜 [C# (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/af5060922e60)  
 📜 [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/45770352c170)  
 📜 [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/8c614df4a013)  
-📜 [Node (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/8c614df4a013) 
+📜 [Node (Basic) Certificate]() 
 
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
