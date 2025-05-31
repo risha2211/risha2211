@@ -149,8 +149,8 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🌟 1-Star in Ruby  
 🌟 1-Star in Problem Solving  
 
-📜 [Python (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/b801c3e78bf5)
-📜 [C# (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/af5060922e60)
+📜 [Python (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/b801c3e78bf5)  
+📜 [C# (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/af5060922e60)  
 
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
