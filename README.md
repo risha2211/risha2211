@@ -97,7 +97,7 @@
 </p>     
 
 ### 📁 Tools:
-Microsoft Office Suite · Google Workspace · Git · Linux command line basics
+Microsoft Office Suite · Google Workspace · Linux command line basics
 
 ---
 
