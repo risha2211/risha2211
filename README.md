@@ -142,7 +142,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🌟 1-Star C++  
 🌟 1-Star in Python  
 🌟 1-Star in Java  
-🌟 1-Star in Problem Solving
+🌟 1-Star in Problem Solving  
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
 ---
