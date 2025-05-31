@@ -133,6 +133,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🎖️ Participated in 2 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
+
 🎯 Skill tests:  
 - Python: 100%
 - C: 87%
