@@ -133,7 +133,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🎖️ Participated in 2 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
-🎯 Skill tests: 100% Python, 100% C++, 97% Java, 87% C
+🎯 Skill tests: 100% Python, 100% C++, 97% Java, 87% C  
 🔗 [My CodeChef Profile](https://www.codechef.com/users/rishakanthe)
 
 ## 📊 Codeforces Highlights
