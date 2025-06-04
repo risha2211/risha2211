@@ -129,7 +129,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ---
 
 ## 🧑‍🍳 CodeChef Highlights
-🌟 Rating: 1576 — 2-Star — Div 3
+🌟 Rating: 1576 — 2-Star — Div 3  
 🎖️ Participated in 2 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
