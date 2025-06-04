@@ -144,7 +144,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ## 🧾 HackerRank Highlights
 🌟 2-Star in Python  
 🌟 2-Star in C Programming  
-🌟 3-Star C++   
+🌟 4-Star C++   
 🌟 1-Star in Java  
 🌟 1-Star in Ruby  
 🌟 1-Star in Problem Solving  
