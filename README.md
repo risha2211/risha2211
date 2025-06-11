@@ -129,16 +129,16 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ---
 
 ## 🧑‍🍳 CodeChef Highlights
-🌟 Rating: 1576 (Div 3) — 2-Star  
-🎖️ Participated in 2 contests  
+🌟 Rating: 1576 (max. 1591) — Div 3 — 2-Star  
+🎖️ Participated in 3 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
 🎯 Skill tests: 100% Python, 100% C++, 97% Java, 87% C  
 🔗 [My CodeChef Profile](https://www.codechef.com/users/rishakanthe)
 
 ## 📊 Codeforces Highlights
-🌟 Rating: 1028 (max. 1031)  
-🎖️ Participated in 6 contests   
+🌟 Rating: 987 (max. 1031)  
+🎖️ Participated in 7 contests   
 🔗 [My CodeForces Profile](https://codeforces.com/profile/risha22)
 
 ## 🧾 HackerRank Highlights
