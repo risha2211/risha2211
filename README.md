@@ -129,8 +129,8 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ---
 
 ## 🧑‍🍳 CodeChef Highlights
-🌟 Rating: 1663 — Div 2 — 3-Star  
-🎖️ Participated in 4 contests  
+🌟 Rating: 1602 — Div 2 — 3-Star  
+🎖️ Participated in 5 contests  
 🥇 Gold Badge: Problem Solver  
 💬 Contributor via problem explanations & consistent daily streaks   
 🎯 Skill tests: 100% Python, 100% C++, 97% Java, 87% C  
@@ -138,7 +138,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 
 ## 📊 Codeforces Highlights
 🌟 Rating: 987 (max. 1031)  
-🎖️ Participated in 7 contests   
+🎖️ Participated in 8 contests   
 🔗 [My CodeForces Profile](https://codeforces.com/profile/risha22)
 
 ## 🧾 HackerRank Highlights
