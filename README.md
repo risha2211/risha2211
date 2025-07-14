@@ -155,6 +155,19 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 📜 [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/8c614df4a013)  
 📜 [Node (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/cef2463158d5) 
 
+## 🔰 LeetCode Highlights  
+Intermediate:
+- Math x9
+- Recursion x2
+- Bit Manipulation x2
+
+Fundamental:
+- Array x1
+- String x1
+- Simulation x1
+
+[My LeetCode Profile](https://leetcode.com/u/rishakanthe/)
+
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
 ---
