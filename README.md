@@ -156,12 +156,12 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 📜 [Node (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/cef2463158d5) 
 
 ## 🔰 LeetCode Highlights  
-Intermediate:
+📘 Intermediate:
 - Math x9
 - Recursion x2
 - Bit Manipulation x2
 
-Fundamental:
+📒 Fundamental:
 - Array x1
 - String x1
 - Simulation x1
