@@ -142,12 +142,12 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🔗 [My CodeForces Profile](https://codeforces.com/profile/risha22)
 
 ## 🧾 HackerRank Highlights
-🌟 2-Star in Python  
-🌟 2-Star in C Programming  
+🌟 2-Star Python  
+🌟 2-Star C Programming  
 🌟 4-Star C++   
-🌟 1-Star in Java  
-🌟 1-Star in Ruby  
-🌟 1-Star in Problem Solving  
+🌟 1-Star Java  
+🌟 1-Star Ruby  
+🌟 1-Star Problem Solving  
 
 📜 [Python (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/b801c3e78bf5)  
 📜 [C# (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/af5060922e60)  
