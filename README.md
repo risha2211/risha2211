@@ -158,12 +158,12 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
 ## 🔰 LeetCode Highlights  
-📘 Intermediate:
+📒 Intermediate:
 - Math x9
 - Recursion x2
 - Bit Manipulation x2
 
-📒 Fundamental:
+📘 Fundamental:
 - Array x1
 - String x1
 - Simulation x1
