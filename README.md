@@ -132,7 +132,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 🧩 Solving problems on **CodeChef**, **Codeforces** and **HackerRank**  
 🛡️ Regularly practice **CTF challenges**  
 📚 Exploring **Quantum Computing** - diving into Qiskit, qubits, and the future of computation  
-🛩️ Built micro-aeroplanes and nano drones from scratch as part of my hands-on engineering pursuits  
+🛩️ Designed and built nano drones and micro-aeroplanes using lightweight circuits, propeller physics, and embedded control  
 👩‍💻 Participated in multiple hackathons and worked on projects - [see them here](https://github.com/risha2211/My-Projects).
 
 ---
@@ -191,3 +191,7 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ---
 
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/risha-kanthe-526826329/)
+
+![Risha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=risha2211&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risha2211&layout=compact&theme=tokyonight)
+
