@@ -157,7 +157,8 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 
 🔗 [My HackerRank Profile](https://www.hackerrank.com/profile/risha_kanthe)
 
-## 🔰 LeetCode Highlights  
+## 🔰 LeetCode Highlights    
+🎖️ Participated in 1 contest  
 📒 Intermediate:
 - Math x9
 - Recursion x2
