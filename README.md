@@ -1,4 +1,4 @@
-<h1 align="center"> Risha Kanthe <h1 align="center"> </h1>
+<h1 align="center"> Risha Kanthe <h1 align="center"> 
 <p align="center"><b>Full Stack Dev | Prototype Engineer | Competetive Programming | DSA | UI/UX + 3D Designer | Hardware Builder (Electronics & Robotics)</b></p>
 
 <p align="center">
