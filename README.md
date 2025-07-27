@@ -1,7 +1,10 @@
 <h1 align="center"> Risha Kanthe</h1>
 <p align="center"><b>Full Stack Dev | Prototype Engineer | Competetive Programming | DSA | UI/UX + 3D Designer | Hardware Builder (Electronics & Robotics)</b></p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Deploying+bugs+on+localhost:3000" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Deploying+bugs+on+localhost:3000" alt="Typing SVG" />
+</p>
+
 
 ### 💻 I code in:
 <p>
@@ -191,7 +194,4 @@ Microsoft Office Suite · Google Workspace · Linux command line basics
 ---
 
 🔗 [My LinkedIn Profile](https://www.linkedin.com/in/risha-kanthe-526826329/)
-
-![Risha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=risha2211&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risha2211&layout=compact&theme=tokyonight)
 
