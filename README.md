@@ -1,5 +1,4 @@
 <h1 align="center"> Risha Kanthe <h1 align="center">
-  Hi, I'm Risha Kanthe
   <img src="https://media.giphy.com/media/Zd6LltVHTsG5W/giphy.gif" width="40" height="40" alt="heart" />
 </h1>
 <p align="center"><b>Full Stack Dev | Prototype Engineer | Competetive Programming | DSA | UI/UX + 3D Designer | Hardware Builder (Electronics & Robotics)</b></p>
