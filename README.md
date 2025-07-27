@@ -1,6 +1,6 @@
 ## Risha Kanthe  
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&duration=3900&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Crafting+things+with+Care+and+Caffeine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Deploying+vibes+on+localhost+3000" alt="Typing SVG" />
 </div>
 
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX & 3D Designer | Hardware Builder (Electronics & Robotics)**
