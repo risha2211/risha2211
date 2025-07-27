@@ -1,6 +1,6 @@
 ## Risha Kanthe  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Deploying+bugs+on+localhost:3000" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Deploying+bugs+on+localhost:3000" alt="Typing SVG" />
 
 **Full Stack Developer | CP Enthusiast | Prototype Engineer | UI/UX & 3D Designer | Hardware Builder (Electronics & Robotics)**
 
