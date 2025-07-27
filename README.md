@@ -1,5 +1,5 @@
 <h1 align="center">Risha Kanthe</h1>
-<p align="center"><b>Full Stack Engineer | CP & DSA Enthusiast | UI/UX + 3D Designer | Hardware Builder</b></p>
+<p align="center"><b>Full Stack Dev | Competitive Programming | DSA | UI/UX + 3D Designer | Hardware Builder (Electronics + Robotics)</b></p>
 
 
 <p align="center">
