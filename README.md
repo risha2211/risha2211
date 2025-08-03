@@ -74,6 +74,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60" height="60"/>
 </p>
 
+### 🐍 Python Libraries:
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" height="60"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
+&nbsp;  
+<img src="https://github.com/user-attachments/assets/5e221863-e603-4c95-9d2c-788e0197f39f" alt="Seaborn Icon" width="60" height="60">
+</p>
           
 ### 🎨 UI/UX:
 <p>
@@ -107,17 +117,11 @@
 ![Image](https://github.com/user-attachments/assets/908a9048-3fd5-47e7-93bf-32c647546bff)
 &nbsp;
 
-### 🐍 Python Libraries:
+### 🔢 Math & Scientific Tools:
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" height="60"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
-&nbsp;  
-<img src="https://github.com/user-attachments/assets/5e221863-e603-4c95-9d2c-788e0197f39f" alt="Seaborn Icon" width="60" height="60">
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="60" height="60"/>
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/69c81140-a0a4-4895-94b4-472c260b6aa1" />
 </p>
 
 ### 🧰 Development Environment:
