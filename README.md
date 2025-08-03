@@ -114,6 +114,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/>
+ 
+![Image](https://github.com/user-attachments/assets/5e221863-e603-4c95-9d2c-788e0197f39f)
 </p>
 
 ### 🧰 Development Environment:
