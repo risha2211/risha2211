@@ -84,7 +84,7 @@
 &nbsp;  
 <img src="https://github.com/user-attachments/assets/5e221863-e603-4c95-9d2c-788e0197f39f" alt="Seaborn Icon" width="60" height="60">
 &nbsp;  
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/69c81140-a0a4-4895-94b4-472c260b6aa1" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/41fa7f42-4980-40e0-a82c-19d50a22cf9d" />
 </p>
           
 ### 🎨 UI/UX:
