@@ -80,6 +80,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="60" height="60"/>
+&nbsp;
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d7f2be36-129a-4930-b8a8-01647cc110aa" />
 </p>
 
 ### 🐍 Python Libraries:
