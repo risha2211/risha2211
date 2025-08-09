@@ -54,6 +54,8 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+&nbsp;          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
 &nbsp;
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/15b5aef0-b006-4ebb-869a-1f1402cde8a4" />
